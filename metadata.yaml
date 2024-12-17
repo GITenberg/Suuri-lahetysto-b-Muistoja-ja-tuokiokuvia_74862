@@ -1,0 +1,36 @@
+_repo: Suuri-lahetysto-b-Muistoja-ja-tuokiokuvia_74862
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ivalo, Santeri
+    aliases:
+    - Ingman, Santeri
+    - Ivalo, Herman Aleksander
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '31820'
+    url: http://www.gutenberg.org/2009/agents/31820
+    wikipedia: https://fi.wikipedia.org/wiki/Santeri_Ivalo
+creator:
+  author:
+    agent_name: Nylander, Johan William
+    gutenberg_agent_id: '57693'
+    url: http://www.gutenberg.org/2009/agents/57693
+description: ''
+gutenberg_issued: '2024-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74862'
+language: fi
+pgterms:marc905: 20241203001026nylander
+pgterms:marc906: '1899'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bSöderström & co., $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Suuri lähetystö : $b Muistoja ja tuokiokuvia'
+url: http://www.gutenberg.org/ebooks/74862
