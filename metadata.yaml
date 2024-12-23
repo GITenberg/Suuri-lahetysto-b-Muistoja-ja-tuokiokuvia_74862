@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '31820'
     url: http://www.gutenberg.org/2009/agents/31820
     wikipedia: https://fi.wikipedia.org/wiki/Santeri_Ivalo
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nylander, Johan William
     gutenberg_agent_id: '57693'
     url: http://www.gutenberg.org/2009/agents/57693
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74862#Suuri-lahetysto-b-Muistoja-ja-tuokiokuvia
 gutenberg_issued: '2024-12-09'
 gutenberg_type: Text
 identifiers:
